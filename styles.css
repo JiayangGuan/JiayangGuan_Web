@@ -1,0 +1,47 @@
+body{
+    background: #3c485e;
+}
+a{
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+}
+h1{
+    color: white;
+    font-size: 15;
+    padding: 20;  
+}
+h2{
+    color: #feffe5;
+    font-family: arial-black;
+    font-size: 46px;
+    margin-left: 20px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+h3{
+    color: white;
+    font-family: arial-black;
+    text-align: center;
+    border: solid 2px black;
+    padding: 10px;
+    margin-left: 550px;
+    margin-right: 550px;
+    background-color: #2c3979;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.copyr{
+    font-family: monospace;
+    font-size: 15px;
+    position: absolute;
+    bottom: 0;
+    margin-left: 20px;
+}
